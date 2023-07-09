@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Himachalify/static/css/main.780fee44.css",
-    "main.js": "/Himachalify/static/js/main.3258dd2e.js",
+    "main.js": "/Himachalify/static/js/main.55b2d3f5.js",
     "static/js/787.b4cdd736.chunk.js": "/Himachalify/static/js/787.b4cdd736.chunk.js",
     "static/media/pic2.jpg": "/Himachalify/static/media/pic2.67694dca66f2b97b49af.jpg",
     "static/media/p22.jpg": "/Himachalify/static/media/p22.fe33fc67d20ae2a7ba0d.jpg",
@@ -58,11 +58,11 @@
     "static/media/p44.jpg": "/Himachalify/static/media/p44.2d3075e25108081ea715.jpg",
     "index.html": "/Himachalify/index.html",
     "main.780fee44.css.map": "/Himachalify/static/css/main.780fee44.css.map",
-    "main.3258dd2e.js.map": "/Himachalify/static/js/main.3258dd2e.js.map",
+    "main.55b2d3f5.js.map": "/Himachalify/static/js/main.55b2d3f5.js.map",
     "787.b4cdd736.chunk.js.map": "/Himachalify/static/js/787.b4cdd736.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.780fee44.css",
-    "static/js/main.3258dd2e.js"
+    "static/js/main.55b2d3f5.js"
   ]
 }
